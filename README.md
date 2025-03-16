@@ -1,7 +1,3 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sunilkmwtt/sunilkmwtt/main/banner.png" alt="GitHub Banner">
-</p>
 
 <h1 align="center">Hi there, I'm Sunil 👋</h1>
 
